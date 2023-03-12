@@ -4,8 +4,6 @@
 
 I love learning new technologies  and contributing to open source Recently  enjoying problem solving as well
 
-I'm currently working something cool~
-Currently learning dyango
 
 
 Skills: VUE JS / JS / HTML / CSS /PHP/BOOSTRAP/ 
