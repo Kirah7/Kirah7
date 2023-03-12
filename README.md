@@ -1,5 +1,5 @@
 ### Hi there 👋, my name is KYRAH
-#### I am a Web Designer and Developer
+#### I am a Web Designer 
 ![I am a Web Designer and Developer](https://res.cloudinary.com/practicaldev/image/fetch/s--l6O_ZkIM--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/yceo3xk3of14d3hbdkdp.png)
 
 I love learning new technologies  and contributing to open source Recently  enjoying problem solving as well
