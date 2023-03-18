@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **graphic design**
 
-- 👨‍💻 All of my projects are available at [https://www.canva.](https://www.canva.)
+
 
 - 📫 How to reach me **https://www.instagram.com/kirahhh**
 
