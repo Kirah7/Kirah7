@@ -8,7 +8,12 @@
 - 📫 How to reach me **https://www.instagram.com/kirahhh**
 
 - ⚡ Fun fact **im cute**
+- 
+<div align="center">
+  <img height="200" src="https://i.imgflip.com/65efzo.gif"  />
+</div>
 
+###
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/https://www.instagram.com/kirahhh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/kirahhh" height="30" width="40" /></a>
