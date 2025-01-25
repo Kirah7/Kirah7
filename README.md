@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm KIRRAH</h1>
 <h3 align="center">A passionate frontend developer from Manila ,Philippines</h3>
 
-- 🌱 I’m currently learning **graphic design**
+- 🌱 I’m currently learning **Quality Assurance**
 
 
 
 - 📫 How to reach me **https://www.instagram.com/kirahhh**
 
-- ⚡ Fun fact **im cute**
+- ⚡ Fun fact **Bug Hunting**
 - 
 <div align="center">
   <img height="200" src="https://i.imgflip.com/65efzo.gif"  />
