@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm KIRRAH</h1>
-<h3 align="center">A passionate frontend developer from Manila ,Philippines</h3>
+<h3 align="center">A passionate Software Tester  Engineer from Manila ,Philippines</h3>
 
 - 🌱 I’m currently learning **Quality Assurance**
 
