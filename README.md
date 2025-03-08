@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Khy</h1>
 <h3 align="center">A passionate Software Tester  Engineer from Manila ,Philippines</h3>
 
-- 🌱 I’m currently learning **Quality Assurance**
+- 🌱 I’m currently learning **Automation Tools**
 
 
 
